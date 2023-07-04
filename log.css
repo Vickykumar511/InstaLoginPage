@@ -1,0 +1,46 @@
+.wrapper{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border: 5px black;
+    background-color: rgb(243, 239, 233);
+    background-size: 16px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+    
+border-radius: 5px;  
+}
+.logo{
+    margin-top: 50px;
+    
+}
+.name{
+    margin: 5px;
+    padding: 6px;
+}
+.password{
+    margin: 5px;
+    padding: 6px;
+    width: autopx;
+
+}
+.submit {
+    padding: 4px;
+    
+    
+}
+
+.heading{
+font-family: Billabong;
+}
+.sighup{
+    text-align: center;
+}
+p{
+    padding: 2px;
+    
+}
+.card_type{
+    padding: 5px;
+}
